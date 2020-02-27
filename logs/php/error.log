@@ -1,0 +1,27 @@
+[19-Feb-2020 01:15:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/functions.php:13
+Stack trace:
+#0 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/class-wp-hook.php(288): gymfitness_scripts_styles('')
+#1 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/class-wp-hook.php(288): wp_enqueue_scripts('')
+#5 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-inc in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/functions.php on line 13
+[19-Feb-2020 01:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/functions.php:13
+Stack trace:
+#0 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/class-wp-hook.php(288): gymfitness_scripts_styles('')
+#1 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/script-loader.php(2670): do_action('wp_enqueue_scri...')
+#4 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/class-wp-hook.php(288): wp_enqueue_scripts('')
+#5 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-inc in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/functions.php on line 13
+[26-Feb-2020 01:21:14 UTC] PHP Parse error:  syntax error, unexpected ':' in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/page.php on line 6
+[26-Feb-2020 20:27:58 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/template-parts/loopPaginas.php on line 14
+[26-Feb-2020 20:45:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/page-nuestras-clases.php on line 17
+[26-Feb-2020 20:46:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/page-nuestras-clases.php on line 13
+[26-Feb-2020 20:46:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/page-nuestras-clases.php on line 13
+[26-Feb-2020 20:46:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/page-nuestras-clases.php on line 13
+[27-Feb-2020 18:14:29 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '{' in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/inc/queries.php on line 3
+[27-Feb-2020 18:23:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/inc/queries.php on line 15
+[27-Feb-2020 18:23:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/maximilianogomez/Desktop/Github/Wordpress/app/public/wp-content/themes/gymfitness/inc/queries.php on line 15
